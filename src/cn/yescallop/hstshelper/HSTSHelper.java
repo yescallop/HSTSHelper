@@ -29,7 +29,7 @@ public class HSTSHelper {
     private static final Logger LOGGER = Logger.getLogger(HSTSHelper.class);
 
     public static void main(String[] args) {
-        System.out.println("Starting HSTSHelper\nThis program is licensed under Press enter to stop the program\n");
+        System.out.println("Starting HSTSHelper\nThis program is licensed under the Apache License 2.0\nPress enter to stop the program\n");
 
         Pattern[] rules;
         int ignoredCount = 0;
